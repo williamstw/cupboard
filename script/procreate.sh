@@ -17,7 +17,7 @@
 
 : <<DOCUMENTATION
  -----------------------------------------------
-|  seedling.sh
+| procreate.sh 
  -----------------------------------------------
  A utility to create a starting point for a decent
  bash script - doing what should be done.
